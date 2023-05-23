@@ -1,4 +1,4 @@
-const express = require('express');
+  const express = require('express');
 const productController = require('../controllers/productController');
 const status = require('../middleware/checkAuth');
 const path = require('path');
